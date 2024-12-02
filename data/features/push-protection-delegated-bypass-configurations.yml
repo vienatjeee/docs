@@ -1,4 +1,0 @@
-# Issue 15892 - Secret scanning push protection bypass moves from "Global Settings" to "Security configurations"
-versions:
-  ghec: '*'
-  ghes: '>=3.16'
